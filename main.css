@@ -1,0 +1,24 @@
+/* google fonts */
+/* body {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.6;
+}
+.main h1 {
+  text-transform: uppercase;
+}
+.main p {
+  text-transform: capitalize;
+}
+.container p {
+  word-spacing: 0.6rem;
+} */
+
+/* system fonts */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+}
+h1,
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
